@@ -8,4 +8,4 @@ Likewise in the last project, I used a lot of nested divs and some of them are t
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Testimonials-Grid-Section/
+Live: https://billgeorgop93.github.io/Testimonials-Grid-Section/
